@@ -1,0 +1,7 @@
+c
+comando2
+comando3
+comando
+
+
+command 7

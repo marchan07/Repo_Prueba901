@@ -1,0 +1,13 @@
+# Proyecto de Prueba
+
+Este es un archivo de prueba para el repositorio `Repo_Prueba901`.
+
+## Objetivo
+
+El objetivo de este archivo es servir como un ejemplo de contenido que puede ser agregado, confirmado y enviado a un repositorio remoto en GitHub.
+
+## Instrucciones
+
+1. **Agregar el archivo a Git:**
+   ```sh
+   git add archivo_de_prueba.txt
